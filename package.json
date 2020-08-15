@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-demo",
+  "version": "1.0.0",
+  "description": "Simple landing page created with Tailwind CSS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohanRajGautam/tailwind-landing-page.git"
+  },
+  "author": "Rohan Raj Gautam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RohanRajGautam/tailwind-landing-page/issues"
+  },
+  "homepage": "https://github.com/RohanRajGautam/tailwind-landing-page#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
